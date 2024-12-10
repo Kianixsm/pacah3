@@ -1,0 +1,20 @@
+{
+    "2": {
+        "id": 3,
+        "name": "Fankit",
+        "price": "300.000",
+        "description": "Bagi kamu yang ingin sesuatu yang spesial, fankit eksklusif Kobo Kanaeru hadir untukmu! Paket ini berisi kartu pos, photocard, pin langka, dan banyak lagi. Dengan jumlah terbatas, fankit ini wajib masuk koleksi. Jangan sampai kehabisan!"
+    },
+    "3": {
+        "id": 2,
+        "name": "T-Shirt",
+        "price": "100.000",
+        "description": "Kaos berbahan katun premium dengan desain minimalis Kobo Kanaeru ini siap menemani hari-harimu. Nyaman dikenakan kapan saja dan di mana saja. Jadilah bagian dari komunitas penggemar dengan kaos keren ini!"
+    },
+    "4": {
+        "id": 3,
+        "name": "Pin",
+        "price": "25.000",
+        "description": "Tambahkan pin bergambar Kobo Kanaeru ke jaket, tas, atau topimu. Dengan desain ikonik dan material kokoh, pin ini adalah cara sempurna untuk mengekspresikan kecintaanmu kepada Kobo. Kumpulkan semuanya sekarang!"
+    }
+}
